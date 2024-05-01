@@ -2,7 +2,7 @@
 This repository contains data and analysis related to the urban growth expansion of Kolkata, India, from 1990 to 2020. The analysis includes satellite imagery processing, land use/land cover classification, and spatial-temporal analysis to understand the patterns and trends of urban expansion over the years.
 
 
-🌆 Unlocking Kolkata's Urban Growth Story: A Satellite Journey from 1990 to 2020! 🚀
+🌆 Unlocking Kolkata's Urban Growth Story: A Journey from 1990 to 2020! 🚀
 
 Ever wondered how Kolkata has evolved over the past three decades? Dive into the fascinating world of satellite imagery and Google Earth Engine with me as we unveil Kolkata's urban expansion from 1990 to 2020!
 
